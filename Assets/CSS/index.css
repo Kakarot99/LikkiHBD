@@ -1,0 +1,69 @@
+.carousel-inner img {
+  width: 100%;
+  height: 100%;
+}
+.X img{
+  height:241px !important;
+}
+.carousel-indicators li {
+  background-color: teal !important;
+}
+.carousel-indicators .active {
+  background-color: tomato !important;
+}
+.image img {
+  max-width: 100%;
+}
+.container-fluid {
+  padding: 0 !important;
+}
+.RahLik {
+  padding-top:10%;
+}
+.text {
+  padding: 15%;
+  align-items: center;
+}
+.inner-text h3 {
+  font-size: 24px !important;
+}
+.inner-text p {
+  margin-top: 1rem;
+}
+@media (max-width: 768px) {
+  .text {
+    padding: 5%;
+  }
+  
+  .carousel-caption h3 {
+    font-size: 20px !important;
+    color: peachpuff !important;
+  }
+  
+  .inner-text img{
+    
+    width:250px;
+  }
+}
+body {
+  overflow-x: hidden;
+}
+.card-img-top{
+  transition: transform .8s !important;
+}
+.card-img-top:hover{
+  transform: scale(1.1) !important;
+}
+/*  */
+.Y{
+  margin-top:80px;
+}
+
+video{
+  width: 100%;
+  height: auto;
+}
+
+.card-title{
+  color:grey !important;
+}
